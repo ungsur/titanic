@@ -19,17 +19,17 @@
   Pclass is a proxy for socio-economic status (SES)
   1st ~ Upper; 2nd ~ Middle; 3rd ~ Lower
 
-*Age is in Years; Fractional if Age less than One (1)
+ * Age is in Years; Fractional if Age less than One (1)
  If the Age is Estimated, it is in the form xx.5
 
-*With respect to the family relation variables (i.e. sibsp and parch)
+ * With respect to the family relation variables (i.e. sibsp and parch)
 some relations were ignored.  The following are the definitions used
 for sibsp and parch.
 
-*Sibling:  Brother, Sister, Stepbrother, or Stepsister of Passenger Aboard Titanic
-*Spouse:   Husband or Wife of Passenger Aboard Titanic (Mistresses and Fiances Ignored)
-*Parent:   Mother or Father of Passenger Aboard Titanic
-*Child:    Son, Daughter, Stepson, or Stepdaughter of Passenger Aboard Titanic
+ * Sibling:  Brother, Sister, Stepbrother, or Stepsister of Passenger Aboard Titanic
+ * Spouse:   Husband or Wife of Passenger Aboard Titanic (Mistresses and Fiances Ignored)
+ * Parent:   Mother or Father of Passenger Aboard Titanic
+ * Child:    Son, Daughter, Stepson, or Stepdaughter of Passenger Aboard Titanic
 
 Other family relatives excluded from this study include cousins,
 nephews/nieces, aunts/uncles, and in-laws.  Some children travelled
